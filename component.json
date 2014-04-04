@@ -10,6 +10,7 @@
     "noflo/noflo": "*"
   },
   "scripts": [
+    "components/GetProperty.coffee",
     "components/MoveElement.coffee",
     "components/RotateElement.coffee",
     "components/SetElementTop.coffee",
@@ -21,6 +22,7 @@
   "noflo": {
     "icon": "css3",
     "components": {
+      "GetProperty": "components/GetProperty.coffee",
       "MoveElement": "components/MoveElement.coffee",
       "RotateElement": "components/RotateElement.coffee",
       "SetElementTop": "components/SetElementTop.coffee"
