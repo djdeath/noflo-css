@@ -12,6 +12,7 @@
   "scripts": [
     "components/GetProperty.coffee",
     "components/MoveElement.coffee",
+    "components/ResizeElement.coffee",
     "components/RotateElement.coffee",
     "components/SetElementTop.coffee",
     "components/SetProperty.coffee",
@@ -25,6 +26,7 @@
     "components": {
       "GetProperty": "components/GetProperty.coffee",
       "MoveElement": "components/MoveElement.coffee",
+      "ResizeElement": "components/ResizeElement.coffee",
       "RotateElement": "components/RotateElement.coffee",
       "SetElementTop": "components/SetElementTop.coffee",
       "SetProperty": "components/SetProperty.coffee"
